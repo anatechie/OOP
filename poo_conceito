@@ -1,0 +1,50 @@
+Programação Orientada a Objetos (OOP - Object-Oriented Programming)
+Paradigma que se baseia no conceito de classes e objetos.
+
+OOP - pode usá-la para estruturar um programa em blocos de códigod simples e reutilizáveis (classes), usados para criar instâncias individuais dos objetos.
+Objeto no dicionario remete à uma entidade que existe no mundo real 
+Orientada significa que está interessafa em um tipo particular de coisa ou entidade.
+
+OOP é um paradigma construido em torno de objetos ou entidades.
+Agrupamento de informações relacionadas para produzir código mais curto e reutilizavel 
+
+Blocos de construção entram em ação para ajudar a fazer isso por meio de Classes, Objetos, Métodos e Atributos.
+
+Classe: Tipos de dados que o usuário define e que atua como o modelo de objetos, atributos e métodos. 
+Objetos: Instâncias da classe com dados especificamente definidos. Quando a classe é definida inicialmente, a descrição é o único objeto que é definido.
+Métodos: FUnções que são definidas dentro da classe em que é descrito o comportamento de um objeto.
+São úteis para reutilização ou para manter a funcionalidade encapsulada dentro de um objeto por vez. 
+Atributos: Definidos no modelo de classe, representa o estado de um objeto. 
+
+Pilares da OOP:
+¨Encapsulamento;
+¨Abstração;
+¨Herança e;
+¨Polimorfismo. 
+
+Encapsulamento:
+Vincula dados. Funções manipulam as informações e as mantêm seguras, nenhum acesso direto é concedido às informações, caso elas estejam ocultas.
+Caso deseje obter aesso às informações, precisa interagir com o artigo responsável pelas informações.
+Ao encapsular dados, as informações do sistema tornam-se mais seguras e confiáveis. Havendo monitoramento de como as informações estão sendo acessadas e quais
+as operações estão sendo realizadas nelas. 
+
+Abstração: 
+Uso de classe simples para representação da complexibilidade. Com a abstração o usuário consegue ver o essencial
+Na OOPé construido aplicações ocultando detalhes que o usuário não precisa ver. 
+
+Herança: 
+Permite que as classes herdem recursos de outras classes. A herança é usada para classificar os objetos em seus programas de acordo com caracteristicas e desempenho comuns.
+A herança torna o manuseio com objetosfácil, pois permite ter as caracteristicas gerais em um objeto pai/mãe e dê aos objetos filhos a possibilidade de herdar as caracteristicas
+
+Polimorfismo:
+Poli, muitas, morfismo, formas. Possibilita que dois objetos respondam de um mesmo modo. Permite que diferentes objetos interajam com a mesma interface. 
+
+
+
+
+
+
+
+
+
+
